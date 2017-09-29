@@ -1,4 +1,4 @@
-## CLI
+﻿## CLI
 
 * Fuente: [hipertextual](https://hipertextual.com/archivo/2014/04/comandos-basicos-terminal/)
 
@@ -144,12 +144,3 @@ Este comando también presenta varias opciones. La opción **-r** borra todos lo
 
 ```
 rm -fr /home/respaldos
-```
-
-### Clear
-
-Clear (de limpiar), es un sencillo comando que limpiara nuestra terminal por completo dejándola como recién abierta. Para ello ejecutamos:
-
-```
-clear
-```
